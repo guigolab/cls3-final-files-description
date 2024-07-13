@@ -5,8 +5,8 @@ GTF files generated from the CLS3 data:
     <li><a href="#loci table">loci table</a>
 
 ## masterTable GTF
-   [Human master table GTF](https://github.com/guigolab/gencode-cls-master-table/releases/download/GencodeCLS_v3.0/Hv3_masterTable_refined.gtf.gz)
-   [Mouse master table GTF](https://github.com/guigolab/gencode-cls-master-table/releases/download/GencodeCLS_v3.0/Mv2_masterTable_refined.gtf.gz)
+  - [Human master table GTF](https://github.com/guigolab/gencode-cls-master-table/releases/download/GencodeCLS_v3.0/Hv3_masterTable_refined.gtf.gz)
+  - [Mouse master table GTF](https://github.com/guigolab/gencode-cls-master-table/releases/download/GencodeCLS_v3.0/Mv2_masterTable_refined.gtf.gz)
    
    This is the main GTF file generated from the CLS3 dataset after merging the transcripts obtained across all the tissues/samples.
    The CLS3 long-read data was processed through LyRic to obtaing high-confidence transcript models per sample through both pacBioSII and ONT technologies.
