@@ -1,12 +1,9 @@
 # cls3-final-files-description
 GTF files generated from the CLS3 data:
-
-<!-- TABLE OF CONTENTS -->
-<details>
     <li><a href="#masterTable GTF">masterTable GTF</a></li>
     <li><a href="#intronChain masterTable GTF">intronChain masterTable GTF</a></li>
     <li><a href="#loci table">loci table</a>
-</details>
+
 
 1. ##masterTable GTF
    This is the main GTF file generated from the CLS3 dataset after merging the transcripts obtained across all the tissues/samples.
