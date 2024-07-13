@@ -1,7 +1,17 @@
 # cls3-final-files-description
 GTF files generated from the CLS3 data:
 
-1. <li>masterTable GTF</li>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ul>
+    <li><a href="#masterTable GTF">masterTable GTF</a></li>
+    <li><a href="#intronChain masterTable GTF">intronChain masterTable GTF</a></li>
+    <li><a href="#loci table">loci table</a>
+  </ul>
+</details>
+
+1. ##masterTable GTF
    This is the main GTF file generated from the CLS3 dataset after merging the transcripts obtained across all the tissues/samples.
    The CLS3 long-read data was processed through LyRic to obtaing high-confidence transcript models per sample through both pacBioSII and ONT technologies.
 
