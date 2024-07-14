@@ -33,7 +33,9 @@ The attribute tags description can be found here on the main [gencode-cls-master
 A snapshot from the "intron" chain master table GTF:
 ![image](https://github.com/user-attachments/assets/62b8e864-93c9-4f1f-9dd4-3cd8c04bef93)
 
-_gene_id_ and _transcript_id_ both specify the merged chain identifier in the format anchICxxxxxxxxxxxx for the spliced transcripts, while anchUCxxxxxxxxxxxx for the monoexonic transcripts. In addition to the master table attributes (_target_, _spliced_, _sampleN_, _samplesMetadata_, _expression_, _artifact_), A new attribute _contained_anchTMs_, is also present which specifies the anchTMs contaiined within each chain. For the [master table GTF attributes](https://github.com/guigolab/gencode-cls-master-table?tab=readme-ov-file#attributes-specifics), the definition remains the same, while these attributes now specify the respective tags for all the anchTMs contained within the respective chain. 
+_gene_id_ and _transcript_id_ both specify the merged chain identifier in the format anchICxxxxxxxxxxxx for the spliced transcripts, while anchUCxxxxxxxxxxxx for the monoexonic transcripts. 
+In addition to the master table attributes (_target_, _spliced_, _sampleN_, _samplesMetadata_, _expression_, _artifact_), a new attribute _contained_anchTMs_, is also present which specifies the anchTMs contaiined within each chain. 
+For the [master table GTF attributes](https://github.com/guigolab/gencode-cls-master-table?tab=readme-ov-file#attributes-specifics), the definition remains the same, while these attributes now specify the respective tags for all the anchTMs contained within the respective chain. 
 An exception is the _endSupport_ attribute, wherein the highest support available from the conained anchTMs is selected for the respective chain.
 While for the _refCompare_ and _currentCompare_ attributes, the status of the merged chain against the specific Gencode reference annotations is recalculated and specified.
 
