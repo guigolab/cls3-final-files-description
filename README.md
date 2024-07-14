@@ -18,7 +18,7 @@ GTF files generated from the CLS3 data:
 Following is a snapshot from the master table GTF:
 ![image](https://github.com/user-attachments/assets/6982a73e-cbce-4650-88bc-7f0cdfbe6c27)
 
-The attribute tags description can be found here on the main (gencode-cls-master-table github)[https://github.com/guigolab/gencode-cls-master-table?tab=readme-ov-file#attributes-specifics]
+The attribute tags description can be found here on the main [gencode-cls-master-table github](https://github.com/guigolab/gencode-cls-master-table?tab=readme-ov-file#attributes-specifics)
 
    
 
