@@ -15,8 +15,9 @@ GTF files generated from the CLS3 data:
 
 ![image](https://github.com/user-attachments/assets/bf9e231f-3592-4873-84b3-427395f8a568)
 
-Following is the snapshot from this GTF:
+Following is a snapshot from the master table GTF:
 ![image](https://github.com/user-attachments/assets/6982a73e-cbce-4650-88bc-7f0cdfbe6c27)
+
 
    
 
