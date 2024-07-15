@@ -24,12 +24,12 @@ The attribute tags description can be found here on the main [gencode-cls-master
 The final refined master table has the following artifact models included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
  ## intronChain masterTable GTF
- The master table GTF for human and mouse can be downloaded using the following links:
- -
- -
- -
- -
- 
+ The chain GTF for human and mouse can be downloaded using the following links:
+ .
+ .
+ .
+ .
+  
  This GTF was created from the main master table to further reduce the transcript redundancy, while preserving the master table transcript identifiers (anchTMxxxxxxxxxxxx) in the attributes. 
 
  Different strategies were followed for the spliced and monoexonic transcripts.
@@ -53,10 +53,12 @@ While for the _refCompare_ and _currentCompare_ attributes, the status of the me
 The final refined "chain" master tables have the following artifact types included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
 ## loci masterTable GTF
--
--
--
+The loci GTFs can be downloaded using the following links. 
+.
+.
+.
 
+The loci information remains the same across different gencode reference versions, the only difference is the gencode overlap attributes.
 For this loci level GTF, the transcripts are clustered at locus level. 
 This is done by first reducing the redundancy by merging the anchTMs using tmerge. Further, the transcripts with any overlap on the same strand (bedtools intersect) are clustered into a single locus.
 
@@ -82,28 +84,5 @@ These can be found here:
     -
     -
 
+The final loci master tables have the following artifact types included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
-    
-
-
-
-
-(_target_, _spliced_, _sampleN_, _samplesMetadata_, _expression_, _artifact_), a new attribute _contained_anchTMs_, is also present which specifies the anchTMs contaiined within each chain. 
-
-For the [master table GTF attributes](https://github.com/guigolab/gencode-cls-master-table?tab=readme-ov-file#attributes-specifics), the definition remains the same, while these attributes now specify the respective tags for all the anchTMs contained within the respective chain. 
-
-An exception is the _endSupport_ attribute, wherein the highest support available from the contained anchTMs is selected for the respective chain.
-While for the _refCompare_ and _currentCompare_ attributes, the status of the merged chain against the specific Gencode reference annotations is recalculated (using GffCompare) and specified.
-
-The final refined "chain" master tables have the following artifact types included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
-
-
-
-
-
-
-4. masterTable "intronChain" GTF
-5. loci GTF
-6. enhanced annotation GTF
-7. EBI final annotation for the paper
-   
