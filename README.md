@@ -59,9 +59,9 @@ The final refined "chain" master tables have the following artifact types includ
 **_Please use only after completely understanding the generation process. This is an annotation with all the refined CLS loci and might harbour read-throughs; this is not the final gencode annotation, but useful for analysis pertaining to all the obtained CLS3 loci_**
 
 The loci GTFs can be downloaded using the following links. 
-.
-.
-.
+  - [Human loci GTF - gencode v27 tagged]()
+  - [Human loci GTF - gencode v43 tagged]()
+  - [Mouse loci GTF - gencode vM16 tagged]()
 
 The loci information remains the same across different gencode reference versions, the only difference is the gencode overlap attributes.
 For this loci level GTF, the transcripts are clustered at locus level. 
