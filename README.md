@@ -24,6 +24,12 @@ The attribute tags description can be found here on the main [gencode-cls-master
 The final refined master table has the following artifact models included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
  ## intronChain masterTable GTF
+ The master table GTF for human and mouse can be downloaded using the following links:
+ -
+ -
+ -
+ -
+ 
  This GTF was created from the main master table to further reduce the transcript redundancy, while preserving the master table transcript identifiers (anchTMxxxxxxxxxxxx) in the attributes. 
 
  Different strategies were followed for the spliced and monoexonic transcripts.
@@ -47,6 +53,10 @@ While for the _refCompare_ and _currentCompare_ attributes, the status of the me
 The final refined "chain" master tables have the following artifact types included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
 ## loci masterTable GTF
+-
+-
+-
+
 For this loci level GTF, the transcripts are clustered at locus level. 
 This is done by first reducing the redundancy by merging the anchTMs using tmerge. Further, the transcripts with any overlap on the same strand (bedtools intersect) are clustered into a single locus.
 
@@ -58,11 +68,27 @@ A snapshot from the loci master table GTF:
 The loci GTF has gene, transcript and exon features. 
 _gene_id_ specifies the CLS3 locus ID (CLS3:LOC_xxxxxxxxxxxx) while _transcript_id_ specifies the merged transcript ID (TM_xxxxxxxxxxxx).
 
+Each exon has the transcript level attributes obtained through tmerge, description [here](https://github.com/guigolab/tmerge?tab=readme-ov-file#output).
+
+Further, additional attributes _overlapping_gencode_gene_, _overlapping_gencode_transcript_ have been added that specify the transcript overlap with gencode genes and transcripts at the exonic level. While _gLlevel_gencodeGeneOverlaps_ specifies the locus overlap with gencode genes at the exonic level. 
+
 Each locus can be linked to the underlying anchTMs using the _contains_ attribute tag accesed through the exon records for each transcript (TM_xxxxxxxxxxxx), thus linking the main master table GTF to this loci GTF.
-Further, we have created a mapping file across the master table GTF and the loci GTF. For each locus, there exists the following mapping information:
+
+Further, we have created a mapping file for the master table GTF (anchTMs) and the loci GTF. For each locus, there exists the following mapping information:
     "CLSgeneLoci - anchTMs - samples - gencode v27 exonic overlaps"
+
+These can be found here:
+    -
+    -
+    -
+
+
     
-In addition to the master table attributes (_target_, _spliced_, _sampleN_, _samplesMetadata_, _expression_, _artifact_), a new attribute _contained_anchTMs_, is also present which specifies the anchTMs contaiined within each chain. 
+
+
+
+
+(_target_, _spliced_, _sampleN_, _samplesMetadata_, _expression_, _artifact_), a new attribute _contained_anchTMs_, is also present which specifies the anchTMs contaiined within each chain. 
 
 For the [master table GTF attributes](https://github.com/guigolab/gencode-cls-master-table?tab=readme-ov-file#attributes-specifics), the definition remains the same, while these attributes now specify the respective tags for all the anchTMs contained within the respective chain. 
 
