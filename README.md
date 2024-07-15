@@ -64,8 +64,8 @@ The final refined "chain" master tables have the following artifact types includ
 
 The loci GTFs can be downloaded using the following links. 
   - [Human loci GTF - gencode v27 tagged](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_masterTable_refined_+withinTmerge_gencodev27_tagged_lociFeatures.loci.gtf.gz)
-  - [Human loci GTF - gencode v43 tagged]()
-  - [Mouse loci GTF - gencode vM16 tagged]()
+  - [Human loci GTF - gencode v43 tagged](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_masterTable_refined_+withinTmerge_gencodev43_tagged_lociFeatures.loci.gtf.gz)
+  - [Mouse loci GTF - gencode vM16 tagged](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Mv2_masterTable_refined_+withinTmerge_gencodevM16_tagged_lociFeatures.loci.gtf.gz)
 
 The loci information remains the same across different gencode reference versions, the only difference is the gencode overlap attributes.
 For this loci level GTF, the transcripts are clustered at locus level. 
