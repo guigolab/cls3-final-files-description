@@ -3,6 +3,8 @@ GTF files generated from the CLS3 data:
     <li><a href="#masterTable-GTF">masterTable GTF</a></li>
     <li><a href="#chain-masterTable-GTF">chain masterTable GTF</a></li>
     <li><a href="#loci-masterTable-GTF">loci masterTable GTF</a>
+    <li><a href="#enhanced-annotation">enhanced annotation</a>
+    <li><a href="#gencode-v47">gencode v47</a>
 
 ## masterTable GTF
 The master table GTF for human and mouse can be downloaded using the following links:
