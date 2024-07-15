@@ -1,8 +1,8 @@
 # cls3-final-files-description
 GTF files generated from the CLS3 data:
     <li><a href="#masterTable-GTF">masterTable GTF</a></li>
-    <li><a href="#intronChain masterTable GTF">intronChain masterTable GTF</a></li>
-    <li><a href="#loci table">loci table</a>
+    <li><a href="#chain-masterTable-GTF">chain masterTable GTF</a></li>
+    <li><a href="#loci-table">loci masterTable GTF</a>
 
 ## masterTable GTF
 The master table GTF for human and mouse can be downloaded using the following links:
@@ -23,7 +23,7 @@ The attribute tags description can be found here on the main [gencode-cls-master
 
 The final refined master table has the following artifact models included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
- ## intronChain masterTable GTF
+ ## chain masterTable GTF
  The chain GTF for human and mouse can be downloaded using the following links:
  .
  .
