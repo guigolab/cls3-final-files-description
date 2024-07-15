@@ -1,6 +1,6 @@
 # cls3-final-files-description
 GTF files generated from the CLS3 data:
-    <li><a href="#masterTable GTF">masterTable GTF</a></li>
+    <li><a href="#masterTable-GTF">masterTable GTF</a></li>
     <li><a href="#intronChain masterTable GTF">intronChain masterTable GTF</a></li>
     <li><a href="#loci table">loci table</a>
 
