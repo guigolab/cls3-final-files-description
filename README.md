@@ -88,7 +88,7 @@ Further, we have created a mapping file for the master table GTF (anchTMs) and t
     "CLSgeneLoci - anchTMs - samples - gencode v27 exonic overlaps"
 
 These can be found here:
-  - [Human loci GTF - gencode v27 mappings]()
+  - [Human loci - anchTMs - gencode v27 mappings]()
   - [Human loci - anchTMs - gencode v43 mappings]()
   - [Human loci - anchTMs - gencode vM16 mappings]()
 
