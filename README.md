@@ -85,9 +85,9 @@ Further, we have created a mapping file for the master table GTF (anchTMs) and t
     "CLSgeneLoci - anchTMs - samples - gencode v27 exonic overlaps"
 
 These can be found here:
-    - [Human loci - anchTMs - gencode v27 mappings]()
-    - [Human loci - anchTMs - gencode v43 mapipings]()
-    - [Human loci - anchTMs - gencode vM16 mappings]()
+  - [Human loci GTF - gencode v27 tagged]()
+  - [Human loci - anchTMs - gencode v43 mapipings]()
+  - [Human loci - anchTMs - gencode vM16 mappings]()
 
 The final loci master tables have the following artifact types included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
