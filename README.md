@@ -97,6 +97,13 @@ The final loci master tables have the following artifact types included, in addi
 
 ## enhanced annotation
 
-**_Please use only after completely understanding the generation process. This is the genocde "reference" annotation enhanced with the refined novel "intergenic" CLS loci built from ONLY the spliced, refined (additional removal of the polyASJdisag artifacts) and might harbour read-throughs; this is not the final gencode annotation_**
+**_Please use only after completely understanding the generation process. This is the genocde "reference" annotation enhanced with the refined novel "intergenic" CLS loci built from ONLY the spliced, refined (additional removal of the polyASJdisag artifacts) anchTMs and might harbour read-throughs; this is not the final gencode annotation_**
+
+The enhanced annotation GTFs can be downloaded using the following links. 
+  - [Human gencode v27 enhanced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_enhancedCLS3_refined_+gencodev27.loci.refmerged.gff.gz)
+  - [Human gencode v43 enhanced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_enhancedCLS3_refined_+gencodev43.loci.refmerged.gff.gz)
+  - [Mouse gencode vM16 enhanced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Mv2_enhancedCLS3_refined_+gencodevM16.loci.refmerged.gff.gz)
+
+The CLS loci within these files are different from the "loci master table GTF" loci, and have been named as CLS3i:LOC_xxxxxxxxxxxx.
 
 ## gencode v47
