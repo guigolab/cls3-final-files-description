@@ -114,7 +114,7 @@ This is the latest, yet to be released gencode annotation, improved w.r.t. the v
 Since these files will be public only with the next release of gencode, for now the access to these files is limited. Please reach out in case you require access.
 
 Links for downloading the gencode annotations:
-  - [Human v47](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/gencode.vM36.primary_assembly.annotation.gtf.gz)
-  - [Mouse v36](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/gencode.v47.primary_assembly.annotation.gtf.gz)
+  - [Human v47](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/)
+  - [Mouse v36](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/)
 
 
