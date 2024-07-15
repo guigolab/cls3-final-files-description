@@ -25,7 +25,7 @@ The attribute tags description can be found here on the main [gencode-cls-master
 
 The final refined master table has the following artifact models included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
-For additional end support data, we used proCapNet predictions for supporting the human CLS3 TSSs. A proCapNet score of moreThanEqualTo5 (MTE5) within 100bp window of a TSS in any of the proCap datasets is taken as a positive support.
+For additional end support data, we used [proCapNet](https://github.com/kundajelab/ProCapNet) predictions for supporting the human CLS3 TSSs. A proCapNet score of moreThanEqualTo5 (MTE5) within 100bp window of a TSS in any of the proCap datasets is taken as a positive support.
 The anchTMs with proCapNet supported TSSs can be found here:
    - [Human - proCapNet supported anchTMs](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/proCapSupported_anchTMs.list)
  
