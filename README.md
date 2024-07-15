@@ -100,7 +100,7 @@ The final loci master tables have the following artifact types included, in addi
 
 **_Please use only after completely understanding the generation process. This is the genocde "reference" annotation enhanced with the refined novel "intergenic" CLS loci built from ONLY the spliced, refined (additional removal of the polyASJdisag artifacts) anchTMs and might harbour read-throughs; this is not the final gencode annotation_**
 
-The aim of generating this annotation was to enhance the existing reference gencode annotations with only the most reliable intergenic CLS3 transcripts/loci (i.e., spliced transcripts, tagged as "no", "recountSlt50", "spliceSiteMisalign", "tRepeatOverlap" for the attributes tag)
+The aim of generating this annotation was to enhance the existing reference gencode annotations with only the reliable **intergenic** CLS3 transcripts/loci (i.e., spliced transcripts, tagged as "no", "recountSlt50", "spliceSiteMisalign", "tRepeatOverlap" for the attributes tag)
 
 The enhanced annotation GTFs can be downloaded using the following links. 
   - [Human gencode v27 enhanced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_enhancedCLS3_refined_+gencodev27.loci.refmerged.gff.gz)
@@ -120,6 +120,8 @@ Links for downloading the gencode annotations:
 
 ## enhanced gencode v47
 
-The gencode v47 annotation was further enhanced by adding just the most reliable "intergenic" transcript loci. This was done specifically for the purpose of requantification, adding some transcripts that could have been not added to the gencode annotation due to stringent filters or because the ranscripts still need to be reviewed for addition to gencode.
+The gencode v47 annotation was further enhanced by adding just the **most reliable "intergenic"** transcript loci (i.e., spliced transcripts, tagged as "no" or "recountSlt50" for the attributes tag). This was done specifically for the purpose of RNA-Seq analysis studies requantifications, adding some transcripts/loci that have been not added to the gencode annotation yet due to stringent filters or because the transcripts still need to be reviewed for addition to gencode.
 
-
+The latest gencode enhanced annotations can be downloaded here:
+  - [Human v47 enahnced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/gencode.v47.primary_assembly.annotation.enhanced.gtf)
+    
