@@ -55,6 +55,9 @@ While for the _refCompare_ and _currentCompare_ attributes, the status of the me
 The final refined "chain" master tables have the following artifact types included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
 ## loci masterTable GTF
+
+**_Please use only after completely understanding the generation process. This is an annotation with all the refined CLS loci and might harbour read-throughs; this is not the final gencode annotation_**
+
 The loci GTFs can be downloaded using the following links. 
 .
 .
@@ -88,3 +91,8 @@ These can be found here:
 
 The final loci master tables have the following artifact types included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
+## enhanced annotation
+
+**_Please use only after completely understanding the generation process. This is the genocde "reference" annotation enhanced with the refined novel "intergenic" CLS loci built from ONLY the spliced, refined (additional removal of the polyASJdisag artifacts) and might harbour read-throughs; this is not the final gencode annotation_**
+
+## gencode v47
