@@ -99,6 +99,8 @@ The final loci master tables have the following artifact types included, in addi
 
 **_Please use only after completely understanding the generation process. This is the genocde "reference" annotation enhanced with the refined novel "intergenic" CLS loci built from ONLY the spliced, refined (additional removal of the polyASJdisag artifacts) anchTMs and might harbour read-throughs; this is not the final gencode annotation_**
 
+The aim of generating this annotation was to enhance the existing reference gencode annotations with only the most reliable intergenic CLS3 transcripts/loci (i.e., spliced transcripts, tagged as "no", "recountSlt50", "spliceSiteMisalign", "tRepeatOverlap" for the attributes tag)
+
 The enhanced annotation GTFs can be downloaded using the following links. 
   - [Human gencode v27 enhanced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_enhancedCLS3_refined_+gencodev27.loci.refmerged.gff.gz)
   - [Human gencode v43 enhanced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_enhancedCLS3_refined_+gencodev43.loci.refmerged.gff.gz)
@@ -107,3 +109,12 @@ The enhanced annotation GTFs can be downloaded using the following links.
 The CLS loci within these files are different from the "loci master table GTF" loci, and have been named as CLS3i:LOC_xxxxxxxxxxxx.
 
 ## gencode v47
+
+This is the latest, yet to be released gencode annotation, improved w.r.t. the v46 through the addition of gencode havana team approved CLS3 lncRNAs.
+Since these files will be public only with the next release of gencode, for now the access to these files is limited. Please reach out in case you require access.
+
+Links for downloading the gencode annotations:
+  - [Human v47](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/gencode.vM36.primary_assembly.annotation.gtf.gz)
+  - [Mouse v36](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/gencode.v47.primary_assembly.annotation.gtf.gz)
+
+
