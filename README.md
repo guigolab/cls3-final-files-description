@@ -27,10 +27,10 @@ The final refined master table has the following artifact models included, in ad
 
  ## chain masterTable GTF
  The chain GTF for human and mouse can be downloaded using the following links:
- .
- .
- .
- .
+   - [Human chain GTF - spliced](https://github.com/guigolab/gencode-cls-master-table/releases/download/GencodeCLS_v3.0/Hv3_splicedmasterTable_refined.gtf.gz)
+   - [Human chain GTF - monoexonic](https://github.com/guigolab/gencode-cls-master-table/releases/download/GencodeCLS_v3.0/Hv3_unsplicedmasterTable_refined.gtf.gz)
+   - [Mouse chain GTF - spliced](https://github.com/guigolab/gencode-cls-master-table/releases/download/GencodeCLS_v3.0/Mv2_splicedmasterTable_refined.gtf.gz)
+   - [Mouse chain GTF - monoexonic](https://github.com/guigolab/gencode-cls-master-table/releases/download/GencodeCLS_v3.0/Mv2_unsplicedmasterTable_refined.gtf.gz)
   
  This GTF was created from the main master table to further reduce the transcript redundancy, while preserving the master table transcript identifiers (anchTMxxxxxxxxxxxx) in the attributes. 
 
