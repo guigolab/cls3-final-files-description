@@ -56,7 +56,7 @@ The final refined "chain" master tables have the following artifact types includ
 
 ## loci masterTable GTF
 
-**_Please use only after completely understanding the generation process. This is an annotation with all the refined CLS loci and might harbour read-throughs; this is not the final gencode annotation_**
+**_Please use only after completely understanding the generation process. This is an annotation with all the refined CLS loci and might harbour read-throughs; this is not the final gencode annotation, but useful for analysis pertaining to all the obtained CLS3 loci_**
 
 The loci GTFs can be downloaded using the following links. 
 .
