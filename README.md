@@ -5,7 +5,7 @@ GTF files generated from the CLS3 data:
     <li><a href="#loci-masterTable-GTF">loci masterTable GTF</a>
     <li><a href="#enhanced-annotation">enhanced annotation</a>
     <li><a href="#gencode-v47">gencode v47</a>
-    <li><a href="#enhanced gencode-v47">enhanced gencode v47</a>
+    <li><a href="#enhanced-gencode-v47">enhanced gencode v47</a>
 
 ## masterTable GTF
 The master table GTF for human and mouse can be downloaded using the following links:
@@ -123,5 +123,5 @@ Links for downloading the gencode annotations:
 The gencode v47 annotation was further enhanced by adding just the **most reliable "intergenic"** transcript loci (i.e., spliced transcripts, tagged as "no" or "recountSlt50" for the attributes tag). This was done specifically for the purpose of RNA-Seq analysis studies requantifications, adding some transcripts/loci that have been not added to the gencode annotation yet due to stringent filters or because the transcripts still need to be reviewed for addition to gencode.
 
 The latest gencode enhanced annotations can be downloaded here:
-  - [Human v47 enahnced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/gencode.v47.primary_assembly.annotation.enhanced.gtf)
+  - [Human v47 enhanced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/gencode.v47.primary_assembly.annotation.enhanced.gtf)
     
