@@ -25,7 +25,8 @@ The attribute tags description can be found here on the main [gencode-cls-master
 
 The final refined master table has the following artifact models included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
-For additional end support data, we used proCapNet predictions for supporting the human CLS3 TSSs. The anchTMs with proCapNet supported TSSs can be found here:
+For additional end support data, we used proCapNet predictions for supporting the human CLS3 TSSs. A proCapNet score of moreThanEqualTo5 (MTE5) within 100bp window of a TSS in any of the proCap datasets is taken as a positive support.
+The anchTMs with proCapNet supported TSSs can be found here:
    - [Human - proCapNet supported anchTMs](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/proCapSupported_anchTMs.list)
  
  ## chain masterTable GTF
@@ -62,7 +63,7 @@ The final refined "chain" master tables have the following artifact types includ
 **_Please use only after completely understanding the generation process. This is an annotation with all the refined CLS loci and might harbour read-throughs; this is not the final gencode annotation, but useful for analysis pertaining to all the obtained CLS3 loci_**
 
 The loci GTFs can be downloaded using the following links. 
-  - [Human loci GTF - gencode v27 tagged]()
+  - [Human loci GTF - gencode v27 tagged](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_masterTable_refined_+withinTmerge_gencodev27_tagged_lociFeatures.loci.gtf.gz)
   - [Human loci GTF - gencode v43 tagged]()
   - [Mouse loci GTF - gencode vM16 tagged]()
 
