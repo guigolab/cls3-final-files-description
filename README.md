@@ -92,7 +92,7 @@ Further, we have created a mapping file for the master table GTF (anchTMs) and t
 These can be found here:
   - [Human loci - anchTMs - gencode v27 mappings](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_CLSlociToAnchsToSIDsv27)
   - [Human loci - anchTMs - gencode v43 mappings](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_CLSlociToAnchsToSIDsv43)
-  - [Human loci - anchTMs - gencode vM16 mappings](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Mv2_CLSlociToAnchsToSIDsvM16)
+  - [Mouse loci - anchTMs - gencode vM16 mappings](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Mv2_CLSlociToAnchsToSIDsvM16)
 
 The final loci master tables have the following artifact types included, in addition to the genuine models: polyASJdisag, recountSlt50, spliceSiteMisalign, tRepeatOverlap.
 
