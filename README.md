@@ -132,12 +132,12 @@ The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created fro
    
 5. **readID(old)-anchIC(new)_mapping.** (638 ENSTs):<br />
    older unsplit reads were used for creating/extending the v47 ENSTs -> mapped corresponding new split readID-lid-anchTM-anchIC as old and new readIDs refer to same read. Therefore, mapping old reads to current ICtable.<br />
-   Some (xx ENSTs) still not found, tagged "UNMAPPED" in the "CLS3_anchIC" and "CLS3_anchIC_gffComparev27" columns. Most probably these reads were not used by LyRic to build TMs.
+   Some (488 ENSTs) still not found, tagged "UNMAPPED" in the "CLS3_anchIC" and "CLS3_anchIC_gffComparev27" columns. Most probably these reads were not used by LyRic to build TMs.
    
 7. **LID-anchIC_mapping.** (3032 ENSTs):<br />
    LIDs (current version) used for creating/extending the v47 ENSTs -> LIDs mapped to anchICs. 
 Some may not be mapped: are compmerge, alignID, etc.; correspond to old CLS or other datasets.
-In such cases, "CLS3_anchIC" and "CLS3_anchIC_gffComparev27" column has the value UNMAPPED. All LIDs used to create/extend an ENST could be UNMAPPED (1721), or some could be mapped as well.
+In such cases, "CLS3_anchIC" and "CLS3_anchIC_gffComparev27" column has the value UNMAPPED. The LIDs used to create/extend an ENST could be UNMAPPED (1577), or some could be mapped as well.
 <br />
 lid: LyRic TM ID<br />
 rid: read ID
