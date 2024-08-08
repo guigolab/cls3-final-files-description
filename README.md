@@ -5,7 +5,7 @@ GTF files generated from the CLS3 data:
     <li><a href="#loci-masterTable-GTF">loci masterTable GTF</a>
     <li><a href="#enhanced-annotation">enhanced annotation</a>
     <li><a href="#gencode-v47">gencode v47</a>
-    <li><a href="#v47-CLS3 Mappings"v47-CLS3 Mappings</a>
+    <li><a href="#v47-CLS3 Mappings">v47-CLS3 Mappings</a>
     <li><a href="#enhanced-gencode-v47">enhanced gencode v47</a>
 
 ## masterTable GTF
