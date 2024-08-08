@@ -126,16 +126,15 @@ Links for downloading the gencode annotations:
 The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created from. The file has additional tags, "CLS3_anchIC_gffComparev27" for the status of the respective anchIC(s) w.r.t. gencode v27 annotation. "v47-CLS3_mappingTag" states the mapping strategy used, internal details as follows:
 1. **direct_anchICUC_mapping.** (147774 ENSTs)
    anchIC or anchUC were used for creating/extending the v47 ENSTs -> direct mapping to current ICtable using the anchIC/anchUC.
-3. **oldmTanchTM_mapping** (174 ENSTs)
+2. **oldmTanchTM_mapping** (174 ENSTs)
    older version of anchTMs were used for creating/extending the v47 ENSTs -> mapping to older version of anchTMs.
-4. **readID(old)-anchIC(new)_mapping** (638 ENSTs)
-   older unsplit reads were used for creating/extending the v47 ENSTs -> mapped corresponding new split readID-lid-anchTM-anchIC as old and new readIDs refer to same read. 
-   Therefore, mapping old reads to current ICtable.
+3. **readID(old)-anchIC(new)_mapping** (638 ENSTs)
+   older unsplit reads were used for creating/extending the v47 ENSTs -> mapped corresponding new split readID-lid-anchTM-anchIC as old and new readIDs refer to same read. Therefore, mapping old reads to current ICtable.
    Some (xx ENSTs) still not found. tagged "UNMAPPED" in the anchIC&gffC tags. Most probably these reads were not used by LyRic to build TMs.
-5. **LID-anchIC_mapping** (3032 ENSTs)
+4. **LID-anchIC_mapping** (3032 ENSTs)
    LIDs (current version) used for creating/extending the v47 ENSTs -> LIDs mapped to anchICs. 
-   Some may not be mapped: are compmerge, alignID, etc.; correspond to old CLS or other datasets.
-   In such cases, "CLS3_anchIC" and "CLS3_anchIC_gffComparev27" column has the value UNMAPPED. All LIDs used to create/extend an ENST could be UNMAPPED (1721), or some could be mapped as well.
+Some may not be mapped: are compmerge, alignID, etc.; correspond to old CLS or other datasets.
+In such cases, "CLS3_anchIC" and "CLS3_anchIC_gffComparev27" column has the value UNMAPPED. All LIDs used to create/extend an ENST could be UNMAPPED (1721), or some could be mapped as well.
 
 lid: LyRic TM ID
 rid: read ID
