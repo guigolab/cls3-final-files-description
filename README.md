@@ -125,12 +125,12 @@ Links for downloading the gencode annotations:
 
 The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created from. The file has additional tags, "CLS3_anchIC_gffComparev27" for the status of the respective anchIC(s) w.r.t. gencode v27 annotation. "v47-CLS3_mappingTag" states the mapping strategy used, internal details as follows:
 1. **direct_anchICUC_mapping.** (147774 ENSTs):<br />
-   anchIC or anchUC were used for creating/extending the v47 ENSTs -> direct mapping to current ICtable using the anchIC/anchUC.
+   anchIC or anchUC were used for creating/extending the v47 ENSTs -> direct mapping to current ICtable using the anchIC/anchUC.<br />
 3. **oldmTanchTM_mapping.** (174 ENSTs):<br />
-   older version of anchTMs were used for creating/extending the v47 ENSTs -> mapping to older version of anchTMs.
+   older version of anchTMs were used for creating/extending the v47 ENSTs -> mapping to older version of anchTMs.<br />
 5. **readID(old)-anchIC(new)_mapping.** (638 ENSTs):<br />
    older unsplit reads were used for creating/extending the v47 ENSTs -> mapped corresponding new split readID-lid-anchTM-anchIC as old and new readIDs refer to same read. Therefore, mapping old reads to current ICtable.<br />
-   Some (xx ENSTs) still not found. tagged "UNMAPPED" in the anchIC&gffC tags. Most probably these reads were not used by LyRic to build TMs.
+   Some (xx ENSTs) still not found. tagged "UNMAPPED" in the anchIC&gffC tags. Most probably these reads were not used by LyRic to build TMs.<br />
 7. **LID-anchIC_mapping.** (3032 ENSTs):<br />
    LIDs (current version) used for creating/extending the v47 ENSTs -> LIDs mapped to anchICs. 
 Some may not be mapped: are compmerge, alignID, etc.; correspond to old CLS or other datasets.
