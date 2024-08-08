@@ -124,7 +124,7 @@ Links for downloading the gencode annotations:
   - [v47-CLS3mappings](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/MAP_extensive_v47-CLS3_v2_labelled)
 
 The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created from. The file has additional tags, "CLS3_anchIC_gffComparev27" for the status of the respective anchIC(s) w.r.t. gencode v27 annotation. "v47-CLS3_mappingTag" states the mapping strategy used, internal details as follows:
-1. **direct_anchICUC_mapping.** (147774 ENSTs):
+1. **direct_anchICUC_mapping.** (147774 ENSTs):<br />
    anchIC or anchUC were used for creating/extending the v47 ENSTs -> direct mapping to current ICtable using the anchIC/anchUC.
 3. **oldmTanchTM_mapping.** (174 ENSTs):
    older version of anchTMs were used for creating/extending the v47 ENSTs -> mapping to older version of anchTMs.
