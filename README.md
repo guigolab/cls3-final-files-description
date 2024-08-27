@@ -7,7 +7,7 @@ GTF (and other) files generated from the CLS3 data:
     <li><a href="#gencode-v47">gencode v47</a>
     <li><a href="#v47-CLS3-Mappings">v47-CLS3 Mappings</a>
     <li><a href="#enhanced-gencode-v47">enhanced gencode v47</a>
-    <li><a href="#target liftOver mappings human---mouse">target liftOver mappings human - mouse</a>
+    <li><a href="#target-liftOver-mappings-human-mouse">target liftOver mappings human mouse</a>
     
 
 ## masterTable GTF
