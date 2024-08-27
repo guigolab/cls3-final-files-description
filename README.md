@@ -157,3 +157,16 @@ The latest gencode enhanced annotations can be downloaded here:
     
 
 ## target liftOver mappings human - mouse
+
+The human-mouse mapping for the targets that were lifted over from human to mouse originally for the target design, upto the exon level as well. Mappings for all the liftedOver targets can be found here:
+  - [liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/liftedOverTargets.mapping.txt
+)
+<br />
+This is a tab separated file, with the targetID (same for different exons of the same target element), targetID_human (with hg38 coordinates) and the corresponding targetID_mouse (with mm10 coordinates).
+<br />
+For the target design, catalogs (8 catalogs - CMfinderCRSs, GWAScatalog, UCE, VISTAenhancers, fantomCat, fantomEnhancers, bigTranscriptome, miTranscriptome) were liftedOver from human to mouse. For designing targets, the features were extended 100bp in both directions in case a feature is <=200bp. The human and mouse IDs in the above file are the final ones (bed format coordinates included in the ID), as have been used in the masterTables and elsewhere as well.
+<br />
+The file shared above has all the features that were liftedOver from human to mouse. 
+To access only the ones selected for the final targetDesign in mouse, please use this file:
+- [final liftedOverTargets mapping]([https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/liftedOverTargets.mapping.txt](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/final.liftedOverTargets.mapping.txt)
+
