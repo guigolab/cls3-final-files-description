@@ -7,7 +7,7 @@ GTF (and other) files generated from the CLS3 data:
     <li><a href="#gencode-v47">gencode v47</a>
     <li><a href="#v47-CLS3-Mappings">v47-CLS3 Mappings</a>
     <li><a href="#enhanced-gencode-v47">enhanced gencode v47</a>
-    <li><a href="#target liftOver mappings human-mouse">target liftOver mappings human-mouse</a>
+    <li><a href="#target liftOver mappings human---mouse">target liftOver mappings human - mouse</a>
     
 
 ## masterTable GTF
@@ -152,7 +152,7 @@ rid: read ID
 
 The gencode v47 annotation was further enhanced by adding just the **most reliable "intergenic"** transcript loci (i.e., spliced transcripts, tagged as "no" or "recountSlt50" for the attributes tag). This was done specifically for the purpose of RNA-Seq analysis studies requantifications, adding some transcripts/loci that have been not added to the gencode annotation yet due to stringent filters or because the transcripts still need to be reviewed for addition to gencode.
 
-## target liftOver mappings human-mouse
+## target liftOver mappings human - mouse
 
 
 The latest gencode enhanced annotations can be downloaded here:
