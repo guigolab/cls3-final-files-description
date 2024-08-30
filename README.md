@@ -6,6 +6,7 @@ GTF (and other) files generated from the CLS3 data:
     <li><a href="#enhanced-annotation">enhanced annotation</a>
     <li><a href="#gencode-v47">gencode v47</a>
     <li><a href="#v47-CLS3-Mappings">v47-CLS3 Mappings</a>
+    <li><a href="#v47-CLS3-Mappings_detailed">v47-CLS3 Mappings detailed</a>
     <li><a href="#enhanced-gencode-v47">enhanced gencode v47</a>
     <li><a href="#target-liftOver-mappings-human---mouse">target liftOver mappings human - mouse</a>
     
@@ -147,6 +148,10 @@ In such cases, "CLS3_anchIC" and "CLS3_anchIC_gffComparev27" column has the valu
 <br />
 lid: LyRic TM ID<br />
 rid: read ID
+
+## v47-CLS3 Mappings detailed
+
+  - [v47-CLS3mappings DETAILED](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/v47-CLS3mapping_status.txt)
 
 ## enhanced gencode v47
 
