@@ -153,7 +153,8 @@ rid: read ID
 
 The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created from, with added details like novelty at the transcript as well as gene level. 
 
-For each transcript (ENST) created/extended in v47 due to CLS3 (anchICs), the file lists:
+For each transcript (ENST) created/extended in v47 due to CLS3 (anchICs), the file lists: <br />
+|-|-|-|
 **geneID_v47**: v47 gene (ENSG) that the transcript belongs to <br />
 **transcriptID_v47**: v47 transcript ID (ENST) <br />
 **created/extended**: tag specifying whether the transcript was created or extended using TAGENE/manually <br />
