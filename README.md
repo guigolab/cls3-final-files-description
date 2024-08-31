@@ -124,8 +124,6 @@ Links for downloading the gencode annotations:
 
 ## v47-CLS3 Mappings
 
-Draft version!!!
-
   - [v47-CLS3mappings](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/MAP_extensive_v47-CLS3_v2_labelled)
 
 The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created from. These are mostly lncRNAs, and ~300 protein coding transcripts.
@@ -152,6 +150,21 @@ rid: read ID
 ## v47-CLS3 Mappings detailed
 
   - [v47-CLS3mappings DETAILED](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/v47-CLS3mapping_status.txt)
+
+The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created from, with added details like novelty at the transcript as well as gene level. 
+
+For each transcript (ENST) created/extended in v47 due to CLS3 (anchICs), the file lists:
+**geneID_v47**: v47 gene (ENSG) that the transcript belongs to 
+**transcriptID_v47**: v47 transcript ID (ENST)
+**created/extended**: tag specifying whether the transcript was created or extended using TAGENE/manually.
+**CLS3_anchIC**: CLS3 anchIC(s) that led to the addition of the transcript to v47
+**CLS3_anchIC_gffComparev27**: gffcompare classification for the anchIC(s) w.r.t. v27 (reference annotation)
+**v47-CLS3_mappingTag**: states the mapping strategy used; details in the above section
+**v47_biotype**: v47 biotype
+**transcriptClassification**: transcript (ENST) novelty status taking into account the different gffcompare classifications from all the underlying anchICs
+**geneClassification**: gene (ENSG) novelty status taking into account the different gffcompare classifications from all the underlying transcripts
+
+
 
 ## enhanced gencode v47
 
