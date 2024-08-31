@@ -166,6 +166,9 @@ For each transcript (ENST) created/extended in v47 due to CLS3 (anchICs), the fi
 **transcriptClassification** | transcript (ENST) novelty status taking into account the different gffcompare classifications from all the underlying anchICs <br />
 **geneClassification** | gene (ENSG) novelty status taking into account the different gffcompare classifications from all the underlying transcripts <br />
 
+Depicting the gffcompare novelty status w.r.t. v27 for the anchICs, ENSTs and ENSGs:
+
+<img width="868" alt="image" src="https://github.com/user-attachments/assets/3c9efdf9-d83f-416c-8a4f-6fa84301d872">
 
 
 ## enhanced gencode v47
