@@ -156,15 +156,15 @@ The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created fro
 For each transcript (ENST) created/extended in v47 due to CLS3 (anchICs), the file lists: <br />
 ||||
 |-|-|-|
-**geneID_v47**: v47 gene (ENSG) that the transcript belongs to <br />
-**transcriptID_v47**: v47 transcript ID (ENST) <br />
-**created/extended**: tag specifying whether the transcript was created or extended using TAGENE/manually <br />
-**CLS3_anchIC**: CLS3 anchIC(s) that led to the addition of the transcript to v47 <br />
-**CLS3_anchIC_gffComparev27**: gffcompare classification for the anchIC(s) w.r.t. v27 (reference annotation) <br />
-**v47-CLS3_mappingTag**: states the mapping strategy used; details in the above section <br />
-**v47_biotype**: v47 biotype <br />
-**transcriptClassification**: transcript (ENST) novelty status taking into account the different gffcompare classifications from all the underlying anchICs <br />
-**geneClassification**: gene (ENSG) novelty status taking into account the different gffcompare classifications from all the underlying transcripts <br />
+**geneID_v47** | v47 gene (ENSG) that the transcript belongs to <br />
+**transcriptID_v47** | v47 transcript ID (ENST) <br />
+**created/extended** | tag specifying whether the transcript was created or extended using TAGENE/manually <br />
+**CLS3_anchIC** | CLS3 anchIC(s) that led to the addition of the transcript to v47 <br />
+**CLS3_anchIC_gffComparev27** | gffcompare classification for the anchIC(s) w.r.t. v27 (reference annotation) <br />
+**v47-CLS3_mappingTag** | states the mapping strategy used; details in the above section <br />
+**v47_biotype** | v47 biotype <br />
+**transcriptClassification** | transcript (ENST) novelty status taking into account the different gffcompare classifications from all the underlying anchICs <br />
+**geneClassification** | gene (ENSG) novelty status taking into account the different gffcompare classifications from all the underlying transcripts <br />
 
 
 
