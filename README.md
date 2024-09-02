@@ -8,6 +8,7 @@ GTF (and other) files generated from the CLS3 data:
     <li><a href="#v47-CLS3-Mappings">v47-CLS3 Mappings</a>
     <li><a href="#v47-CLS3-Mappings-detailed">v47-CLS3 Mappings detailed</a>
     <li><a href="#enhanced-gencode-v47">enhanced gencode v47</a>
+    <li><a href="#Target-files">Target files</a>
     <li><a href="#target-liftOver-mappings-human---mouse">target liftOver mappings human - mouse</a>
     
 
@@ -180,6 +181,16 @@ The gencode v47 annotation was further enhanced by adding just the **most reliab
 The latest gencode enhanced annotations can be downloaded here:
   - [Human v47 enhanced annotation](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/gencodev47Files/gencode.v47.primary_assembly.annotation.enhanced.gtf)
     
+## Target files
+
+**Merged targets** (used for most of the analysis and for probe designing as well):
+- [liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/hs.allNonPcgTargetsMerged.targets.gt)
+- [liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/mm.allNonPcgTargetsMerged.targets.gtf)
+)
+
+**Exon-level unmerged targets**:
+- [liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_primary_targets.exons.reduced.gene_type.segments.gtf)
+- [liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Mv2_primary_targets.exons.reduced.gene_type.segments.gtf)
 
 ## target liftOver mappings human - mouse
 
