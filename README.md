@@ -186,7 +186,7 @@ The latest gencode enhanced annotations can be downloaded here:
 **Merged targets** (used for most of the analysis and for probe designing as well):
 - [liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/hs.allNonPcgTargetsMerged.targets.gt)
 - [liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/mm.allNonPcgTargetsMerged.targets.gtf)
-)
+  
 
 **Exon-level unmerged targets**:
 - [liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_primary_targets.exons.reduced.gene_type.segments.gtf)
