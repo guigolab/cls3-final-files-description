@@ -186,7 +186,8 @@ The latest gencode enhanced annotations can be downloaded here:
 **Merged targets** (used for most of the analysis and for probe designing as well):
 - [human targets GTF](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/hs.allNonPcgTargetsMerged.targets.gt)
 - [mouse targets GTF](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/mm.allNonPcgTargetsMerged.targets.gtf)
-  
+  _For any analysis related to the target catalog stats, we recommend using this merged version of the targets._****
+
 
 **Exon-level unmerged targets**:
 - [human targets GTF unmerged](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3_primary_targets.exons.reduced.gene_type.segments.gtf)
