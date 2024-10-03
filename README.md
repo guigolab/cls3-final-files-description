@@ -166,6 +166,8 @@ For each transcript (ENST) created/extended in v47 due to CLS3 (anchICs), the fi
 **v47_biotype** | v47 biotype <br />
 **transcriptClassification** | transcript (ENST) novelty status taking into account the different gffcompare classifications from all the underlying anchICs <br />
 **geneClassification** | gene (ENSG) novelty status taking into account the different gffcompare classifications from all the underlying transcripts <br />
+**CLS3_anchTM** | CLS3 anchTM(s) that led to the addition of the transcript to v47. Mapped through the anchICs. <br />
+
 
 The gffcompare novelty status definitions w.r.t. v27 for the anchICs, ENSTs and ENSGs:
 
