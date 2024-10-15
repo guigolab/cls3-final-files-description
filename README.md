@@ -46,7 +46,7 @@ The anchTMs with proCapNet supported TSSs can be found here:
 
  Different strategies were followed for the spliced and monoexonic transcripts.
  1. For the _spliced transcripts_, those with identical intron chains were merged into a single intron chain (anchICxxxxxxxxxxxx), irrespective of the end support.
- 2. While for the _monoexonic transcripts_, those with 50% overlap with each other were merged together into a single chain (anchUCxxxxxxxxxxxx), again irrespective of the end support.
+ 2. While for the _monoexonic transcripts_, those with 50% overlap were merged together into a single chain (anchUCxxxxxxxxxxxx), again irrespective of the end support.
 
 ![image](https://github.com/user-attachments/assets/9f89b11a-c6eb-4c3a-8d2d-4490d3d229fb)
 
