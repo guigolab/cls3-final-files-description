@@ -215,7 +215,7 @@ To access only the ones selected for the final targetDesign in mouse, please use
 
 ## simplified reference annotation
 
-- [Human reference annotation - v27]([https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3.gencodev27.simplified_biotypes.gtf](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/Hv3.gencodev27.simplified_biotypes.gtf.gz))
-- [Mouse reference annotation - vM16]([https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Mv2.gencodevM16.simplified_biotypes.gtf](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/Mv2.gencodevM16.simplified_biotypes.gtf.gz))
+- [Human reference annotation - v27](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3.gencodev27.simplified_biotypes.gtf](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/Hv3.gencodev27.simplified_biotypes.gtf.gz)
+- [Mouse reference annotation - vM16](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Mv2.gencodevM16.simplified_biotypes.gtf](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/Mv2.gencodevM16.simplified_biotypes.gtf.gz)
 
 
