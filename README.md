@@ -214,6 +214,7 @@ To access only the ones selected for the final targetDesign in mouse, please use
 - [final liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/final.liftedOverTargets.mapping.txt)
 
 ## simplified reference annotation
+
 - [Human reference annotation - v27](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3.gencodev27.simplified_biotypes.gtf)
 - [Mouse reference annotation - vM16](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Mv2.gencodevM16.simplified_biotypes.gtf)
 
