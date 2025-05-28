@@ -10,6 +10,7 @@ GTF (and other) files generated from the CLS3 data:
     <li><a href="#enhanced-gencode-v47">enhanced gencode v47</a>
     <li><a href="#Target-files">Target files</a>
     <li><a href="#target-liftOver-mappings-human---mouse">target liftOver mappings human - mouse</a>
+    <li><a href="#simplified reference annotation">simplified reference annotation</a>
     
 
 ## masterTable GTF
@@ -211,4 +212,9 @@ For the target design, catalogs (8 catalogs - CMfinderCRSs, GWAScatalog, UCE, VI
 The file shared above has all the features that were liftedOver from human to mouse. 
 To access only the ones selected for the final targetDesign in mouse, please use this file:
 - [final liftedOverTargets mapping](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/final.liftedOverTargets.mapping.txt)
+
+## simplified reference annotation
+- [Human reference annotation - v27](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Hv3.gencodev27.simplified_biotypes.gtf)
+- [Mouse reference annotation - vM16](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/Mv2.gencodevM16.simplified_biotypes.gtf)
+
 
