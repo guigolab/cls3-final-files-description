@@ -11,6 +11,7 @@ GTF (and other) files generated from the CLS3 data:
     <li><a href="#Target-files">Target files</a>
     <li><a href="#target-liftOver-mappings-human---mouse">target liftOver mappings human - mouse</a>
     <li><a href="#simplified reference annotation">simplified reference annotation</a>
+    <li><a href="#recount files">recount files</a>
     
 
 ## masterTable GTF
@@ -218,4 +219,8 @@ To access only the ones selected for the final targetDesign in mouse, please use
 - [Human reference annotation - v27](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/Hv3.gencodev27.simplified_biotypes.gtf.gz)
 - [Mouse reference annotation - vM16](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/Mv2.gencodevM16.simplified_biotypes.gtf.gz)
 
+## recount files
+
+- [Human recount file](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/recount3_final.pass1.gff3.gz)
+- [Mouse recount file](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/m39_recount3_final.pass1.gff3.gz)
 
