@@ -217,15 +217,15 @@ To access only the ones selected for the final targetDesign in mouse, please use
 
 ## simplified reference annotation
 
-- [Human reference annotation - v27](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/Hv3.gencodev27.simplified_biotypes.gtf.gz)
-- [Mouse reference annotation - vM16](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/Mv2.gencodevM16.simplified_biotypes.gtf.gz)
+- [Human reference annotation - v27](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/Hv3.gencodev27.simplified_biotypes.gtf.gz)
+- [Mouse reference annotation - vM16](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/Mv2.gencodevM16.simplified_biotypes.gtf.gz)
 
 ## recount files
 
-- [Human recount file](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/recount3_final.pass1.gff3.gz)
-- [Mouse recount file](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/m39_recount3_final.pass1.gff3.gz)
+- [Human recount file](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/recount3_final.pass1.gff3.gz)
+- [Mouse recount file](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/m38_recount3.gff3.gz)
 
 ## trmap files
 
-- [Human trmap pairs](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/TrmapHv3_Pairs_Spliced.txt.gz)
-- [Mouse trmap pairs](https://github.com/guigolab/cls3-final-files-description/releases/download/simplified.annotation.v1/TrmapMv2_Pairs_Spliced.txt.gz)
+- [Human trmap pairs](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/TrmapHv3_Pairs_Spliced.txt.gz)
+- [Mouse trmap pairs](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/TrmapMv2_Pairs_Spliced.txt.gz)
