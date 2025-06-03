@@ -13,6 +13,10 @@ GTF (and other) files generated from the CLS3 data:
     <li><a href="#simplified reference annotation">simplified reference annotation</a>
     <li><a href="#recount files">recount files</a>
     <li><a href="#trmap files">trmap files</a>
+    <li><a href="#TSS files">TSS files</a>
+    <li><a href="#genome size file">genome size file</a>
+    <li><a href="#cage support">cage support</a>
+    <li><a href="#proCapNet support">proCapNet support</a>
     
 
 ## masterTable GTF
@@ -229,3 +233,25 @@ To access only the ones selected for the final targetDesign in mouse, please use
 
 - [Human trmap pairs](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/TrmapHv3_Pairs_Spliced.txt.gz)
 - [Mouse trmap pairs](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/TrmapMv2_Pairs_Spliced.txt.gz)
+
+## TSS files
+
+- [Human novel TSS set](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/Hv3_CLS_allTSS_anchTMs_loci.TSS.bed)
+- [Human protein coding TSS set](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/annotation_proteincoding_genes.TSS.bed)
+- [Human lncRNA TSS set](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/annotation_lncRNA_genes.TSS.bed)
+- [Human decoy TSS set](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/decoy.TSS.bed)
+  
+## genome size file
+
+- [human hg38 size](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/hg38.sorted.genome)
+
+## cage support
+
+- [Human cage support file](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/hg38_fair+new_CAGE_peaks_phase1and2.bed)
+  
+## proCapNet support
+
+- [Human CLS TSS proCapNet support](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/support_proCap_scoreMTE5_100bpW)
+- [Human protein coding TSS proCapNet support] ()
+- [Human lncRNA TSS proCapNet support] ()
+- [Human decoy TSS proCapNet support] ()
