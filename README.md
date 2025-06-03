@@ -251,7 +251,5 @@ To access only the ones selected for the final targetDesign in mouse, please use
   
 ## proCapNet support
 
-- [Human CLS TSS proCapNet support](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/support_proCap_scoreMTE5_100bpW)
-- [Human protein coding TSS proCapNet support] ()
-- [Human lncRNA TSS proCapNet support] ()
-- [Human decoy TSS proCapNet support] ()
+- [Human CLS, protein coding, lncRNA, decoy TSS sets proCapNet support](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/proCapScores.zip)
+
