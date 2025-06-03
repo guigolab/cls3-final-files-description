@@ -236,7 +236,7 @@ To access only the ones selected for the final targetDesign in mouse, please use
 
 ## TSS files
 
-- [Human novel TSS set](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/Hv3_allTSS_CLSloci.TSS_CLS.bed)
+- [Human novel TSS set](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/novelTSS_anchTMs_loci.TSS.bed)
 - [Human protein coding TSS set](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/annotation_proteincoding_genes.TSS.bed)
 - [Human lncRNA TSS set](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/annotation_lncRNA_genes.TSS.bed)
 - [Human decoy TSS set](https://github.com/guigolab/cls3-final-files-description/releases/download/data.files.v1/decoy.TSS.bed)
