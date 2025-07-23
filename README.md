@@ -133,6 +133,7 @@ Links for downloading the gencode annotations:
 ## v47-CLS3 Mappings
 
   - [v47-CLS3mappings](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/MAP_extensive_v47-CLS3_v2_labelled)
+  - [vM36-CLS3mappings](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/MAP_extensive_v36-CLS3_v2_labelled)
 
 The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created from. These are mostly lncRNAs, and ~300 protein coding transcripts.
 
