@@ -161,6 +161,7 @@ rid: read ID
 ## v47-CLS3 Mappings detailed
 
   - [v47-CLS3mappings DETAILED](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/v47-CLS3mapping_status.txt)
+  - [vM36-CLS3mappings DETAILED](https://public-docs.crg.es/rguigo/Data/gkaur/CLS3_finalFiles/vM36-CLS3mapping_status.txt) 
 
 The mapping across v47 ENSTs and the CLS3 anchICs they were extended/created from, with added details like novelty at the transcript as well as gene level. 
 
